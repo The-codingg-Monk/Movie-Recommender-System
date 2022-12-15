@@ -1,0 +1,3 @@
+>> A recommender system is an AI-based algorithm that analyzes the data, goes through various possible options, and creates a customized list of items that are interesting and relevant to an individual.
+>> For this project, I picked almost 5000 movie records. I used cosine similarity between tags and picked the top similar movies.
+>> In this system if user searches any movie from search bar, similar movies are recommended to him.
